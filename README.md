@@ -91,5 +91,5 @@ movie_recommender/
 
 ## Author
 
-**Syuzanna Harutyunyan** – Aspiring Data Scientist / Python Developer
+**Syuzanna Harutyunyan** 
  
